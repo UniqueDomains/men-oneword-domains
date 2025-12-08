@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MEN one-word domains still available to buy.
 
-This dataset contains 4,780 .MEN one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,158 .MEN one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MEN one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=men-oneword-domains&utm_content=description.top) (4,775) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.MEN one word domains]
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/men-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/men-oneword-domains/blob/main/men.csv"><b>⬇️ CSV (4.78K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/men-oneword-domains/blob/main/men.json"><b>⬇️ JSON (4.78K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/men-oneword-domains/blob/main/men.csv"><b>⬇️ CSV (5.16K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/men-oneword-domains/blob/main/men.json"><b>⬇️ JSON (5.16K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=men-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.78K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -30,7 +30,7 @@ If you want to search & filters the complete database of [.MEN one word domains]
 | abatic.men     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.men    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.men   | available | 50       | 1%     | 8      |           |         |         |
-| abc.men        | premium   | 102      | 41%    | 3      |           |         |         |
+| abc.men        | premium   | 102      | 39%    | 3      |           |         |         |
 | abdicable.men  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.men  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.men | available | 56       | 1%     | 10     |           |         |         |
@@ -42,20 +42,20 @@ If you want to search & filters the complete database of [.MEN one word domains]
 | aberrant.men   | premium   | 74       | 7%     | 8      |           |         |         |
 | abeyant.men    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.men  | available | 54       | 3%     | 9      |           |         |         |
+| abide.men      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.men    | available | 106      | 5%     | 7      |           |         |         |
 | abient.men     | available | 54       | 1%     | 6      |           |         |         |
-| ability.men    | premium   | 92       | 18%    | 7      |           |         |         |
-| abit.men       | available | 66       | 16%    | 5      |           |         |         |
+| ability.men    | premium   | 92       | 16%    | 7      |           |         |         |
+| abit.men       | available | 66       | 12%    | 5      |           |         |         |
 | abject.men     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.men     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.men  | available | 78       | 1%     | 9      |           |         |         |
 | abkhaz.men     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.men  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/men-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/men-oneword-domains/blob/main/men.csv"><b>⬇️ CSV (4.78K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/men-oneword-domains/blob/main/men.json"><b>⬇️ JSON (4.78K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/men-oneword-domains/blob/main/men.csv"><b>⬇️ CSV (5.16K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/men-oneword-domains/blob/main/men.json"><b>⬇️ JSON (5.16K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=men-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.78K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.MEN one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
