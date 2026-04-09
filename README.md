@@ -14,6 +14,8 @@ Daily-updated public extract of available and resale .men one-word domains from 
 > **Important:** this repository is a **public 9,594-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **5,622,471 domains** on the canonical page below.
 
+**Public extract:** 9,594 rows · **Live catalog:** 5,622,471 domains
+
 **Last updated:** 2026-04-09  
 **Canonical page:** `https://unique.domains/domains/tld/men`  
 **Best for:** founders, investors, studios
@@ -21,14 +23,25 @@ Daily-updated public extract of available and resale .men one-word domains from 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/tld/men?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_open_search"><b>Open live .MEN search</b></a> ·
-  <a href="https://unique.domains/domains/tld/men?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_create_radar"><b>Create .MEN Radar</b></a> ·
-  <a href="https://unique.domains/domains/tld/men?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_start_project"><b>Start a naming Project</b></a> ·
-  <a href="./men.csv"><b>Download CSV</b></a> ·
-  <a href="./men.json"><b>Download JSON</b></a> ·
-  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_methodology"><b>Methodology</b></a> ·
-  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_api_docs"><b>API docs</b></a>
+  <a href="https://unique.domains/domains/tld/men?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/tld/men?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_create_radar"><b>🔔 Create Radar</b></a> ·
+  <a href="https://unique.domains/domains/tld/men?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_start_project"><b>🚀 Start a Project</b></a> ·
+  <b>⬇️ Download sample</b>: <a href="./men.csv">CSV</a> / <a href="./men.json">JSON</a>
 </p>
+
+<p align="center">
+  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_methodology">Methodology</a> ·
+  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_api_docs">API docs</a>
+</p>
+
+---
+
+> This repo is the sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and richer price, demand, and risk context.
+
+**Choose your next step**
+- **Investors:** [Create a Radar from this exact .MEN search](https://unique.domains/domains/tld/men?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_create_radar)
+- **Founders:** [Start a Project from this exact .MEN search](https://unique.domains/domains/tld/men?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_start_project)
+- **Researchers / builders:** [Download CSV](./men.csv) or [Download JSON](./men.json)
 
 ## 📦 What this repository contains
 
@@ -43,28 +56,18 @@ This repository is the public extract for Unique Domains' .MEN one-word domain c
 - `CHANGELOG.md` — latest snapshot metadata
 - `CITATION.cff` — machine-readable dataset citation metadata
 - `LICENSE` — terms for the public extract
-- `assets/chart-demand-buckets.png` — generated demand-buckets chart
 
-### Use this repo to
+## Why leave GitHub?
 
-- inspect a public sample
-- download CSV or JSON
-- cite the dataset
-- understand the fields and scoring inputs
+| GitHub extract          | Live product                                     |
+| ----------------------- | ------------------------------------------------ |
+| 9,594-row public sample | 5,622,471 live domains                           |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
-### Use the live page to
-
-- keep the exact search context
-- search the full .MEN catalog
-- filter by price, demand, status, spelling risk, and fit
-- save the exact search as a Radar
-- turn the search into a founder Project
-
-## 📊 Snapshot of the live .MEN catalog
-
-![Demand buckets across the live search](./assets/chart-demand-buckets.png)
-
-**Why this chart:** it gives a fast overview of the live search composition using the same preview payload that supplies the README counts.
+If this sample already feels useful, the live product is where the exact search becomes a workflow.
 
 ## 🧭 Quick start
 
@@ -77,28 +80,36 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | purchase_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| -------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| dental.men     | available | $9.48          | —             | 90             | 37     | 6      | namecheap                                           |
-| march.men      | resell    | —              | —             | 70             | 82     | 5      | Porkbun                                             |
-| converse.men   | premium   | $437.50        | $62.50        | 64             | 73     | 8      | name.com                                            |
-| personal.men   | available | $9.48          | —             | 91             | 35     | 8      | namecheap                                           |
-| name.men       | resell    | —              | —             | 82             | 76     | 4      | West263 International Limited                       |
-| seventeen.men  | premium   | $437.50        | $62.50        | 84             | 62     | 9      | name.com                                            |
-| account.men    | available | $9.48          | —             | 98             | 34     | 7      | namecheap                                           |
-| flash.men      | resell    | —              | —             | 64             | 67     | 5      | Porkbun                                             |
-| ace.men        | premium   | $625           | $81.25        | 88             | 57     | 3      | name.com                                            |
-| eleven.men     | available | $9.48          | —             | 88             | 34     | 6      | namecheap                                           |
-| identity.men   | resell    | —              | —             | 80             | 65     | 8      | NameCheap, Inc.                                     |
-| business.men   | premium   | $13,000        | $130          | 100            | 54     | 8      | namecheap                                           |
-| concrete.men   | available | $9.48          | —             | 102            | 31     | 8      | namecheap                                           |
-| web.men        | resell    | —              | —             | 72             | 65     | 3      | NameCheap, Inc.                                     |
-| zero.men       | premium   | $125           | $37.99        | 112            | 53     | 4      | name.com                                            |
-| curative.men   | available | $9.48          | —             | 92             | 27     | 8      | namecheap                                           |
-| harvard.men    | resell    | —              | —             | 72             | 65     | 7      | GoDaddy.com, LLC                                    |
-| true.men       | premium   | $1,250         | $125          | 86             | 52     | 4      | name.com                                            |
-| management.men | available | $9.48          | —             | 76             | 26     | 10     | namecheap                                           |
-| state.men      | resell    | —              | —             | 90             | 60     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| dental.men     | available | $9.48     | —             | 90             | 37     | 6      | namecheap                                           |
+| march.men      | resell    | —         | —             | 70             | 82     | 5      | Porkbun                                             |
+| converse.men   | premium   | $437.50   | $62.50        | 64             | 73     | 8      | name.com                                            |
+| personal.men   | available | $9.48     | —             | 91             | 35     | 8      | namecheap                                           |
+| name.men       | resell    | —         | —             | 82             | 76     | 4      | West263 International Limited                       |
+| seventeen.men  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                            |
+| account.men    | available | $9.48     | —             | 98             | 34     | 7      | namecheap                                           |
+| flash.men      | resell    | —         | —             | 64             | 67     | 5      | Porkbun                                             |
+| ace.men        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com                                            |
+| eleven.men     | available | $9.48     | —             | 88             | 34     | 6      | namecheap                                           |
+| identity.men   | resell    | —         | —             | 80             | 65     | 8      | NameCheap, Inc.                                     |
+| business.men   | premium   | $13,000   | $130          | 100            | 54     | 8      | namecheap                                           |
+| concrete.men   | available | $9.48     | —             | 102            | 31     | 8      | namecheap                                           |
+| web.men        | resell    | —         | —             | 72             | 65     | 3      | NameCheap, Inc.                                     |
+| zero.men       | premium   | $125      | $37.99        | 112            | 53     | 4      | name.com                                            |
+| curative.men   | available | $9.48     | —             | 92             | 27     | 8      | namecheap                                           |
+| harvard.men    | resell    | —         | —             | 72             | 65     | 7      | GoDaddy.com, LLC                                    |
+| true.men       | premium   | $1,250    | $125          | 86             | 52     | 4      | name.com                                            |
+| management.men | available | $9.48     | —             | 76             | 26     | 10     | namecheap                                           |
+| state.men      | resell    | —         | —             | 90             | 60     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+
+These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
+
+## 🚀 Next move
+
+You are seeing the public sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+
+[Create Radar](https://unique.domains/domains/tld/men?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/men?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -150,6 +161,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 - [Live .MEN page](https://unique.domains/domains/tld/men?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=related_pricing)
+- [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_men_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
 
 ## 📬 Contact
