@@ -76,7 +76,7 @@ print(df.head())
 | eleven.men     | available | $9.48     | —             | 88             | 33     | 6      | namecheap                                           |
 | harvard.men    | resell    | —         | —             | 72             | 65     | 7      | GoDaddy.com, LLC                                    |
 | zero.men       | premium   | $125      | $37.99        | 112            | 53     | 4      | name.com                                            |
-| concrete.men   | available | $9.48     | —             | 102            | 31     | 8      | namecheap                                           |
+| concrete.men   | available | $9.48     | —             | 102            | 32     | 8      | namecheap                                           |
 | web.men        | resell    | —         | —             | 72             | 61     | 3      | NameCheap, Inc.                                     |
 | business.men   | premium   | $13,000   | $130          | 100            | 53     | 8      | namecheap                                           |
 | curative.men   | available | $9.48     | —             | 92             | 27     | 8      | namecheap                                           |
