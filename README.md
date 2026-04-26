@@ -1,22 +1,22 @@
-# Available .MEN One-Word Domains (9,592)
+# Available .MEN One-Word Domains (11,831)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C593%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C592%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C831%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .men one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .men one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,831 domains** on the canonical page below.
 
-**Public extract:** 9,593 rows · **Live catalog:** 9,592 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,831 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/men`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MEN one-word domain c
 
 ### Files
 
-- `men.csv` — public CSV extract (9,593 rows)
-- `men.json` — public JSON extract (9,593 rows)
+- `men.csv` — public CSV extract (1,000 rows)
+- `men.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| dental.men     | available | $9.48     | —             | 90             | 36     | 6      | namecheap                                           |
-| march.men      | resell    | —         | —             | 70             | 80     | 5      | Porkbun                                             |
-| converse.men   | premium   | $437.50   | $62.50        | 64             | 73     | 8      | name.com                                            |
-| personal.men   | available | $9.48     | —             | 91             | 35     | 8      | namecheap                                           |
-| name.men       | resell    | —         | —             | 82             | 76     | 4      | West263 International Limited                       |
-| seventeen.men  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                            |
-| account.men    | available | $9.48     | —             | 98             | 34     | 7      | namecheap                                           |
-| flash.men      | resell    | —         | —             | 64             | 67     | 5      | Porkbun                                             |
-| ace.men        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com                                            |
-| eleven.men     | available | $9.48     | —             | 88             | 33     | 6      | namecheap                                           |
-| harvard.men    | resell    | —         | —             | 72             | 65     | 7      | GoDaddy.com, LLC                                    |
-| zero.men       | premium   | $125      | $37.99        | 112            | 53     | 4      | name.com                                            |
-| concrete.men   | available | $9.48     | —             | 102            | 32     | 8      | namecheap                                           |
-| web.men        | resell    | —         | —             | 72             | 61     | 3      | NameCheap, Inc.                                     |
-| business.men   | premium   | $13,000   | $130          | 100            | 53     | 8      | namecheap                                           |
-| curative.men   | available | $9.48     | —             | 92             | 27     | 8      | namecheap                                           |
-| state.men      | resell    | —         | —             | 90             | 58     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| true.men       | premium   | $1,250    | $125          | 86             | 52     | 4      | name.com                                            |
-| management.men | available | $9.48     | —             | 76             | 26     | 10     | namecheap                                           |
-| hamilton.men   | resell    | —         | —             | 66             | 54     | 8      | NameSilo, LLC                                       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| payments.men    | available | $9.48     | —             | 58             | 33     | 8      | namecheap                                                 |
+| events.men      | resell    | —         | —             | 68             | 37     | 6      | NameSilo, LLC                                             |
+| travelers.men   | premium   | $437.50   | —             | 58             | 61     | 9      | name.com                                                  |
+| systems.men     | available | $9.48     | —             | 46             | 27     | 7      | namecheap                                                 |
+| tokens.men      | resell    | —         | —             | 51             | 36     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| coins.men       | premium   | $437.50   | —             | 56             | 41     | 5      | name.com                                                  |
+| wheel.men       | available | $9.48     | —             | 74             | 24     | 5      | namecheap                                                 |
+| veterans.men    | resell    | —         | —             | 56             | 23     | 8      | NameSilo, LLC                                             |
+| stories.men     | premium   | $437.50   | —             | 58             | 36     | 7      | name.com                                                  |
+| designs.men     | available | $9.48     | —             | 72             | 21     | 7      | namecheap                                                 |
+| pestcontrol.men | resell    | —         | —             | 74             | 18     | 12     | NameSilo, LLC                                             |
+| aliens.men      | premium   | $437.50   | —             | 56             | 35     | 6      | name.com                                                  |
+| restaurants.men | available | $9.48     | —             | 57             | 21     | 11     | namecheap                                                 |
+| weddings.men    | resell    | —         | —             | 64             | 18     | 8      | Porkbun                                                   |
+| partners.men    | premium   | $437.50   | —             | 61             | 32     | 8      | name.com                                                  |
+| hills.men       | available | $9.48     | —             | 65             | 20     | 5      | namecheap                                                 |
+| landscaping.men | resell    | —         | —             | 80             | 16     | 11     | NameSilo, LLC                                             |
+| trends.men      | premium   | $437.50   | —             | 60             | 32     | 6      | name.com                                                  |
+| workers.men     | available | $9.48     | —             | 60             | 20     | 7      | namecheap                                                 |
+| mortgages.men   | resell    | —         | —             | 50             | 16     | 9      | Key-Systems LLC                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,593-row public sample | 9,592 live domains                               |
+| 1,000-row public sample | 11,831 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
