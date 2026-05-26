@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .men one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,301 domains · **Median ask:** $166.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/men`  
 **Best for:** founders, investors, studios
 
@@ -71,13 +71,13 @@ print(df.head())
 | veterans.men    | resell    | —         | —             | 56             | 23     | 8      | NameSilo, LLC   |
 | stories.men     | premium   | $437.50   | —             | 58             | 36     | 7      | name.com        |
 | wheel.men       | available | $9.48     | —             | 74             | 24     | 5      | namecheap       |
-| pestcontrol.men | resell    | —         | —             | 74             | 18     | 12     | NameSilo, LLC   |
+| weddings.men    | resell    | —         | —             | 64             | 18     | 8      | Porkbun         |
 | aliens.men      | premium   | $437.50   | —             | 56             | 35     | 6      | name.com        |
 | gamers.men      | available | $5.25     | $6.25         | 62             | 24     | 6      | namesilo        |
-| weddings.men    | resell    | —         | —             | 64             | 18     | 8      | Porkbun         |
+| landscaping.men | resell    | —         | —             | 80             | 16     | 11     | NameSilo, LLC   |
 | partners.men    | premium   | $437.50   | —             | 61             | 32     | 8      | name.com        |
 | designs.men     | available | $9.48     | —             | 72             | 21     | 7      | namecheap       |
-| landscaping.men | resell    | —         | —             | 80             | 16     | 11     | NameSilo, LLC   |
+| pestcontrol.men | resell    | —         | —             | 74             | 16     | 12     | NameSilo, LLC   |
 | trends.men      | premium   | $437.50   | —             | 60             | 32     | 6      | name.com        |
 | affiliates.men  | available | $5.25     | $6.25         | 60             | 21     | 10     | namesilo        |
 | mortgages.men   | resell    | —         | —             | 50             | 16     | 9      | Key-Systems LLC |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
