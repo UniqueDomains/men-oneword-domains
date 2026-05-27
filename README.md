@@ -75,10 +75,10 @@ print(df.head())
 | aliens.men      | premium   | $437.50   | —             | 56             | 35     | 6      | name.com        |
 | gamers.men      | available | $5.25     | $6.25         | 62             | 24     | 6      | namesilo        |
 | landscaping.men | resell    | —         | —             | 80             | 16     | 11     | NameSilo, LLC   |
-| partners.men    | premium   | $437.50   | —             | 61             | 32     | 8      | name.com        |
+| trends.men      | premium   | $437.50   | —             | 60             | 32     | 6      | name.com        |
 | designs.men     | available | $9.48     | —             | 72             | 21     | 7      | namecheap       |
 | pestcontrol.men | resell    | —         | —             | 74             | 16     | 12     | NameSilo, LLC   |
-| trends.men      | premium   | $437.50   | —             | 60             | 32     | 6      | name.com        |
+| partners.men    | premium   | $437.50   | —             | 61             | 31     | 8      | name.com        |
 | affiliates.men  | available | $5.25     | $6.25         | 60             | 21     | 10     | namesilo        |
 | mortgages.men   | resell    | —         | —             | 50             | 16     | 9      | Key-Systems LLC |
 | brands.men      | premium   | $6,250    | —             | 62             | 28     | 6      | name.com        |
