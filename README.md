@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .men one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,301 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,301 domains · **Median ask:** $166.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,301 domains · **Median ask:** $223.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/men`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/men`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MEN one-word domain c
 
 ### Files
 
-- `men.csv` — public CSV extract (1,000 rows)
-- `men.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `men.csv`, public CSV extract (1,000 rows)
+- `men.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| payments.men    | available | $9.48     | —             | 58             | 33     | 8      | namecheap       |
-| events.men      | resell    | —         | —             | 68             | 37     | 6      | NameSilo, LLC   |
-| coins.men       | premium   | $437.50   | —             | 56             | 41     | 5      | name.com        |
-| systems.men     | available | $9.48     | —             | 46             | 27     | 7      | namecheap       |
-| veterans.men    | resell    | —         | —             | 56             | 23     | 8      | NameSilo, LLC   |
-| stories.men     | premium   | $437.50   | —             | 58             | 36     | 7      | name.com        |
-| wheel.men       | available | $9.48     | —             | 74             | 24     | 5      | namecheap       |
-| weddings.men    | resell    | —         | —             | 64             | 18     | 8      | Porkbun         |
-| aliens.men      | premium   | $437.50   | —             | 56             | 35     | 6      | name.com        |
-| gamers.men      | available | $5.25     | $6.25         | 62             | 24     | 6      | namesilo        |
-| landscaping.men | resell    | —         | —             | 80             | 16     | 11     | NameSilo, LLC   |
-| trends.men      | premium   | $437.50   | —             | 60             | 32     | 6      | name.com        |
-| designs.men     | available | $9.48     | —             | 72             | 21     | 7      | namecheap       |
-| pestcontrol.men | resell    | —         | —             | 74             | 16     | 12     | NameSilo, LLC   |
-| partners.men    | premium   | $437.50   | —             | 61             | 31     | 8      | name.com        |
-| affiliates.men  | available | $5.25     | $6.25         | 60             | 21     | 10     | namesilo        |
-| mortgages.men   | resell    | —         | —             | 50             | 16     | 9      | Key-Systems LLC |
-| brands.men      | premium   | $6,250    | —             | 62             | 28     | 6      | name.com        |
-| restaurants.men | available | $9.48     | —             | 57             | 21     | 11     | namecheap       |
-| surveys.men     | resell    | —         | —             | 56             | 15     | 7      | Dynadot Inc     |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| out.men     | available | —         | —             | high           | low    | 3      | —                               |
+| come.men    | premium   | $625      | —             | high           | low    | 4      | name.com                        |
+| aide.men    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
+| sea.men     | resell    | —         | —             | high           | low    | 3      | NameSilo, LLC                   |
+| ago.men     | premium   | $625      | $81.25        | medium         | low    | 3      | name.com                        |
+| pity.men    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
+| golf.men    | resell    | —         | —             | high           | medium | 4      | TuringSign Inc. d/b/a Cosmotown |
+| are.men     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
+| xiii.men    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                        |
+| macro.men   | resell    | —         | —             | high           | low    | 5      | Porkbun                         |
+| bed.men     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
+| annoy.men   | available | $5.25     | $6.25         | high           | low    | 5      | namesilo                        |
+| social.men  | resell    | —         | —             | high           | medium | 6      | TuringSign Inc. d/b/a Cosmotown |
+| bit.men     | premium   | $625      | —             | high           | medium | 3      | name.com                        |
+| began.men   | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo                        |
+| detroit.men | resell    | —         | —             | medium         | low    | 7      | NameSilo, LLC                   |
+| bud.men     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
+| Fairs.men   | available | $5.25     | $6.25         | high           | low    | 5      | namesilo                        |
+| discuss.men | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                   |
+| cod.men     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is defined by one trait: the .men extension. Within it, the quality spread comes from how naturally the word pairs with that ending. Generic words such as uproar.men, geek.men, and gather.men can read clearly and stay memorable, while some terms may feel awkward or overly broad. Pricing is relatively approachable at a median ask of 166.18, but low price alone does not make a name strong. When comparing these domains, focus on semantic fit, ease of recall, and whether the word creates avoidable trademark risk. For investors, discipline matters. For founders, the goal is a shortlist you can defend with confidence.
+This set of 12,301 one-word .men domain names ranges from playful food and lifestyle terms — like roastbeef.men, Snickers.men, gingerbread.men, and getmarried.men — to short action phrases such as getlucky.men and fitinto.men. The median ask across the selection is close to $223, making many of these names accessible for a first purchase or a quick portfolio addition. Because .men is a lesser-known extension, pricing tends to reflect novelty and brandability rather than established sector demand, so it pays to weigh renewal cost, memorability, and trademark risk before committing to any single name in this list.
 
-- Check whether the word reads naturally with .men
-- Favor generic terms over obvious trademark exposure
-- Use the 166.18 median ask as a pricing anchor
-- Prefer memorable words with clean spelling
+- 12,301 one-word .men domains in this list — updated daily
+- Median ask near $223 across the full .men selection
+- Names span food, lifestyle, and action-phrase styles (e.g., getlucky.men)
+- Compact, one-word format suited to niche brands or quick resale
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
