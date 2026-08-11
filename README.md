@@ -1,10 +1,10 @@
-# Available .MEN One-Word Domains (12,305)
+# Available .MEN One-Word Domains (13,225)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C305%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C225%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .men one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,305 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,225 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,305 domains · **Median ask:** $206.09 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 13,225 domains · **Median ask:** $193.24 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/tld/men`
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | aide.men    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
 | sea.men     | resell    | —         | —             | high           | low    | 3      | NameSilo, LLC                   |
 | ago.men     | premium   | $625      | $81.25        | medium         | low    | 3      | name.com                        |
-| pity.men    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
+| ashy.men    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
 | golf.men    | resell    | —         | —             | high           | medium | 4      | TuringSign Inc. d/b/a Cosmotown |
 | ain.men     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                        |
-| viii.men    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
+| pity.men    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
 | macro.men   | resell    | —         | —             | high           | low    | 5      | Porkbun                         |
 | are.men     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
-| xiii.men    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                        |
+| viii.men    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
 | social.men  | resell    | —         | —             | high           | medium | 6      | TuringSign Inc. d/b/a Cosmotown |
+| bay.men     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                        |
+| xiii.men    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                        |
+| detroit.men | resell    | —         | —             | medium         | low    | 7      | NameSilo, LLC                   |
 | bed.men     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
 | agaze.men   | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                        |
-| detroit.men | resell    | —         | —             | medium         | low    | 7      | NameSilo, LLC                   |
+| discuss.men | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                   |
 | bit.men     | premium   | $625      | —             | high           | medium | 3      | name.com                        |
 | alary.men   | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                        |
-| discuss.men | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                   |
-| bud.men     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
-| aleut.men   | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                        |
 | ethical.men | resell    | —         | —             | high           | low    | 7      | Dominet (HK) Limited            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,305 live domains                        |
+| 1,000-row public sample | 13,225 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 15 high-demand names under $2,500          |
+| Basic exported fields   | 17 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
