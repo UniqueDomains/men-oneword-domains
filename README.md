@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .men one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,585 domains · **Median ask:** $137.80 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/men`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| come.men    | premium   | $625      | —             | high           | low    | 4      | name.com                        |
-| time.men    | premium   | $625      | —             | high           | medium | 4      | name.com                        |
-| what.men    | premium   | $625      | —             | high           | low    | 4      | name.com                        |
-| aide.men    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
-| sea.men     | resell    | —         | —             | high           | low    | 3      | NameSilo, LLC                   |
-| ago.men     | premium   | $625      | $81.25        | medium         | low    | 3      | name.com                        |
-| ashy.men    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
-| golf.men    | resell    | —         | —             | high           | medium | 4      | TuringSign Inc. d/b/a Cosmotown |
-| ain.men     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                        |
-| pity.men    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
-| macro.men   | resell    | —         | —             | high           | low    | 5      | Porkbun                         |
-| are.men     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
-| viii.men    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
-| social.men  | resell    | —         | —             | medium         | medium | 6      | TuringSign Inc. d/b/a Cosmotown |
-| bay.men     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                        |
-| xiii.men    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                        |
-| detroit.men | resell    | —         | —             | medium         | low    | 7      | NameSilo, LLC                   |
-| bed.men     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
-| agaze.men   | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                        |
-| discuss.men | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                   |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| aide.men    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| sea.men     | resell    | —         | —             | high           | low    | 3      | NameSilo, LLC                                       |
+| ago.men     | premium   | $625      | $81.25        | medium         | low    | 3      | name.com                                            |
+| ashy.men    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
+| golf.men    | resell    | —         | —             | high           | medium | 4      | TuringSign Inc. d/b/a Cosmotown                     |
+| ain.men     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                            |
+| pity.men    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| tech.men    | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| are.men     | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| viii.men    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
+| social.men  | resell    | —         | —             | medium         | low    | 6      | TuringSign Inc. d/b/a Cosmotown                     |
+| bay.men     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                            |
+| xiii.men    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| detroit.men | resell    | —         | —             | medium         | low    | 7      | NameSilo, LLC                                       |
+| bed.men     | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| agaze.men   | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                                            |
+| discuss.men | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                                       |
+| bit.men     | premium   | $625      | —             | high           | medium | 3      | name.com                                            |
+| alary.men   | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                                            |
+| luggage.men | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
