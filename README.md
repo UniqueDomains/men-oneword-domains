@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .men one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,501 domains · **Median ask:** $138.16 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/men`
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | ashy.men    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
 | golf.men    | resell    | —         | —             | high           | medium | 4      | TuringSign Inc. d/b/a Cosmotown                     |
 | ain.men     | premium   | $625      | $81.25        | low            | low    | 3      | name.com                                            |
-| pity.men    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| pity.men    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
 | tech.men    | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | are.men     | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
 | viii.men    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
